@@ -569,13 +569,13 @@ header label {
 .intro {
   transform: translateY(20vh);
   text-align: center;
-  padding-top: -30em;
+  padding-top: -60em;
 }
 .intro .avatar {
-  padding: 10px;
+  padding: 0px;
 }
 .intro .avatar img {
-  width: 128px;
+  width: 100px;
   height: auto;
   display: inline-block;
   -webkit-border-radius: 100%;
@@ -599,7 +599,7 @@ header label {
   cursor: pointer;
 }
 .description {
-  max-width: 660px !important;
+  max-width: 700px !important;
   margin: 0 auto;
 }
 .nickname {
