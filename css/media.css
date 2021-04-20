@@ -116,11 +116,21 @@
     display: none;
   }
   .description {
-    max-width: 460px !important;
+    max-width: 479px !important;
     margin: 0 auto;
+  }
+  .nickname {
+    font-size: 1em;
+    font-weight: normal;
   }
   .intro {
     transform: translateY(14vh) !important;
+  }
+  .intro .avatar {
+    padding: 0px;
+  }
+  .intro .avatar img {
+    width: 50px;
   }
   #dynamic-to-top {
     display: none !important;
